@@ -130,7 +130,7 @@ Customization settings of dialog `android/app/res/values/themes.xml` (`android/a
 
    ```gradle
    dependencies {
-       compile project(':react-native-image-picker')
+       implementation project(':react-native-image-picker')
    }
    ```
 
